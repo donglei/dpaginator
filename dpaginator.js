@@ -1,3 +1,8 @@
+/**
+auth:donglei
+email:xiaosan@outlook.com
+*/
+
 var dPaginator = (function () {
     function dPaginator(total, prepage, currentpage) {
         this.currentPage = currentpage;
